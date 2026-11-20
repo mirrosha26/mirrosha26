@@ -1,13 +1,4 @@
-<!--
-  GitHub profile README — mirrosha26
-  EN by default; RU behind <details> (GitHub has no real i18n).
--->
-
-<p align="right">
-  <a href="#english">EN</a>&nbsp;·&nbsp;<a href="#russian">RU</a>
-</p>
-
-<a id="english"></a>
+<!-- GitHub profile README — mirrosha26 -->
 
 <p align="center">
   <img src="assets/banner.webp" alt="" width="100%" />
@@ -94,46 +85,3 @@
 <p align="center">
   <sub>thanks for stopping by (⌒‿⌒)</sub>
 </p>
-
-<br/>
-
-<details>
-<summary><a id="russian"></a><b>RU · на русском</b></summary>
-
-<br/>
-
-<h2 align="center">Михаил Мирошников</h2>
-
-<p align="center">
-  full-stack разработчик · сооснователь <b>VECK</b><br/>
-  <sub>(⌒‿⌒)</sub>
-</p>
-
-<p align="center">
-  Москва · делаю продукты целиком — бэкенд, UI и всё между ними
-</p>
-
-<p align="center">
-  <a href="https://www.mirrosha.com/?lang=ru">Портфолио</a>
-  &nbsp;·&nbsp;
-  <a href="https://t.me/miroshnikovmisha">Telegram</a>
-  &nbsp;·&nbsp;
-  <a href="mailto:mirrosha.dev@gmail.com">Почта</a>
-</p>
-
-#### Стек
-`React` · `Next.js` · `TypeScript` · `Django` · `PostgreSQL` · `Docker` · `Tailwind` · `Figma`
-
-#### Избранные работы
-
-| | |
-|:--|:--|
-| [**VECK**](https://www.mirrosha.com/portfolio/veck) — B2B SaaS для венчурных инвесторов | [**IZETA**](https://www.mirrosha.com/portfolio/izeta) — fashion e-commerce и учёт |
-| [**ANACORE**](https://www.mirrosha.com/portfolio/analytics-core) — аналитика Telegram + AI | [**OSTIN × CAPSULA**](https://www.mirrosha.com/portfolio/ostin-capsula) — кабинет, API, стилист |
-
-<p align="center">
-  <sub><a href="https://www.mirrosha.com/portfolio">Все кейсы на mirrosha.com →</a></sub><br/>
-  <sub>спасибо, что заглянул (⌒‿⌒)</sub>
-</p>
-
-</details>
