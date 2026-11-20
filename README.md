@@ -1,7 +1,6 @@
 <!--
   GitHub profile README — mirrosha26
   EN by default; RU behind <details> (GitHub has no real i18n).
-  Banner: drop a wide image into assets/banner.* and uncomment the img below.
 -->
 
 <p align="right">
@@ -10,11 +9,9 @@
 
 <a id="english"></a>
 
-<!-- banner placeholder
 <p align="center">
   <img src="assets/banner.webp" alt="" width="100%" />
 </p>
--->
 
 <h1 align="center">Mikhail Miroshnikov</h1>
 
