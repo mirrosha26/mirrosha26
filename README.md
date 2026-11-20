@@ -9,10 +9,6 @@
 
 <a id="english"></a>
 
-<p align="center">
-  <img src="assets/me.jpg" alt="Mikhail Miroshnikov" width="148" height="148" />
-</p>
-
 <h1 align="center">Mikhail Miroshnikov</h1>
 
 <p align="center">
@@ -60,10 +56,6 @@
 <summary><a id="russian"></a><b>RU · на русском</b></summary>
 
 <br/>
-
-<p align="center">
-  <img src="assets/me.jpg" alt="Михаил Мирошников" width="120" height="120" />
-</p>
 
 <h2 align="center">Михаил Мирошников</h2>
 
