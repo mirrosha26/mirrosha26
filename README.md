@@ -1,6 +1,7 @@
 <!--
   GitHub profile README — mirrosha26
   EN by default; RU behind <details> (GitHub has no real i18n).
+  Banner: drop a wide image into assets/banner.* and uncomment the img below.
 -->
 
 <p align="right">
@@ -8,6 +9,12 @@
 </p>
 
 <a id="english"></a>
+
+<!-- banner placeholder
+<p align="center">
+  <img src="assets/banner.webp" alt="" width="100%" />
+</p>
+-->
 
 <h1 align="center">Mikhail Miroshnikov</h1>
 
@@ -27,6 +34,16 @@
   &nbsp;·&nbsp;
   <a href="mailto:mirrosha.dev@gmail.com">Email</a>
 </p>
+
+---
+
+### Stack
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,django,python,postgres,docker,linux,vercel,figma&perline=10" alt="Tech stack" />
+</p>
+
+`React` · `Next.js` · `TypeScript` · `Django` · `PostgreSQL` · `Docker` · `Tailwind` · `Figma`
 
 ---
 
@@ -77,16 +94,6 @@
 
 ---
 
-### Stack
-
-<p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,django,python,postgres,docker,linux,vercel,figma&perline=10" alt="Tech stack" />
-</p>
-
-`React` · `Next.js` · `TypeScript` · `Django` · `PostgreSQL` · `Docker` · `Tailwind` · `Figma`
-
----
-
 <p align="center">
   <sub>thanks for stopping by (⌒‿⌒)</sub>
 </p>
@@ -116,6 +123,9 @@
   &nbsp;·&nbsp;
   <a href="mailto:mirrosha.dev@gmail.com">Почта</a>
 </p>
+
+#### Стек
+`React` · `Next.js` · `TypeScript` · `Django` · `PostgreSQL` · `Docker` · `Tailwind` · `Figma`
 
 #### Избранные работы
 
