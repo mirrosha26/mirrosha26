@@ -12,7 +12,8 @@
 <h1 align="center">Mikhail Miroshnikov</h1>
 
 <p align="center">
-  full-stack developer · co-founder of <b>VECK</b>
+  full-stack developer · co-founder of <b>VECK</b><br/>
+  <sub>(~˘▾˘)~</sub>
 </p>
 
 <p align="center">
@@ -46,7 +47,7 @@
 
 <p align="center">
   <sub>More context, case studies & contact → <a href="https://www.mirrosha.com/?lang=en">mirrosha.com</a></sub><br/>
-  <sub>thanks for stopping by 🤍</sub>
+  <sub>thanks for stopping by (⌒‿⌒)</sub>
 </p>
 
 <br/>
@@ -59,7 +60,8 @@
 <h2 align="center">Михаил Мирошников</h2>
 
 <p align="center">
-  full-stack разработчик · сооснователь <b>VECK</b>
+  full-stack разработчик · сооснователь <b>VECK</b><br/>
+  <sub>(~˘▾˘)~</sub>
 </p>
 
 <p align="center">
@@ -84,7 +86,7 @@
 
 <p align="center">
   <sub>Кейсы и контакты → <a href="https://www.mirrosha.com/?lang=ru">mirrosha.com</a></sub><br/>
-  <sub>спасибо, что заглянул 🤍</sub>
+  <sub>спасибо, что заглянул (⌒‿⌒)</sub>
 </p>
 
 </details>
