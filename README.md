@@ -17,23 +17,65 @@
 </p>
 
 <p align="center">
+  Moscow · building products end to end — backend, UI, and the bits in between
+</p>
+
+<p align="center">
   <a href="https://www.mirrosha.com/?lang=en">Portfolio</a>
+  &nbsp;·&nbsp;
+  <a href="https://t.me/miroshnikovmisha">Telegram</a>
   &nbsp;·&nbsp;
   <a href="mailto:mirrosha.dev@gmail.com">Email</a>
 </p>
 
 ---
 
-### Now
-- Moscow, Russia
-- shipping products
-- `mirrosha.dev@gmail.com`
+### Selected work
 
-### Recently
-- **VECK** · 2024–2026 — B2B SaaS for venture investors
-- **IZETA** · 2026 — fashion e-commerce & inventory
-- **ANACORE** · 2026 *(wip)* — Telegram analytics + AI
-- **OSTIN × CAPSULA** · 2024–2026 — cabinet, API, styling platform
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://www.mirrosha.com/portfolio/veck">
+        <img src="assets/works/veck.webp" alt="VECK" width="100%" />
+      </a>
+      <br/>
+      <a href="https://www.mirrosha.com/portfolio/veck"><b>VECK</b></a><br/>
+      <sub>B2B SaaS for venture investors · 2024–2026</sub>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://www.mirrosha.com/portfolio/izeta">
+        <img src="assets/works/izeta.webp" alt="IZETA" width="100%" />
+      </a>
+      <br/>
+      <a href="https://www.mirrosha.com/portfolio/izeta"><b>IZETA</b></a><br/>
+      <sub>Fashion e-commerce & inventory · 2026</sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://www.mirrosha.com/portfolio/analytics-core">
+        <img src="assets/works/anacore.webp" alt="ANACORE" width="100%" />
+      </a>
+      <br/>
+      <a href="https://www.mirrosha.com/portfolio/analytics-core"><b>ANACORE</b></a><br/>
+      <sub>Telegram analytics + AI · 2026</sub>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://www.mirrosha.com/portfolio/ostin-capsula">
+        <img src="assets/works/ostin.webp" alt="OSTIN × CAPSULA" width="100%" />
+      </a>
+      <br/>
+      <a href="https://www.mirrosha.com/portfolio/ostin-capsula"><b>OSTIN × CAPSULA</b></a><br/>
+      <sub>Cabinet, API & styling platform · 2024–2026</sub>
+    </td>
+  </tr>
+</table>
+
+<p align="center">
+  <sub><a href="https://www.mirrosha.com/portfolio">All cases on mirrosha.com →</a></sub>
+</p>
+
+---
 
 ### Stack
 
@@ -46,7 +88,6 @@
 ---
 
 <p align="center">
-  <sub>More context, case studies & contact → <a href="https://www.mirrosha.com/?lang=en">mirrosha.com</a></sub><br/>
   <sub>thanks for stopping by (⌒‿⌒)</sub>
 </p>
 
@@ -65,27 +106,26 @@
 </p>
 
 <p align="center">
+  Москва · делаю продукты целиком — бэкенд, UI и всё между ними
+</p>
+
+<p align="center">
   <a href="https://www.mirrosha.com/?lang=ru">Портфолио</a>
+  &nbsp;·&nbsp;
+  <a href="https://t.me/miroshnikovmisha">Telegram</a>
   &nbsp;·&nbsp;
   <a href="mailto:mirrosha.dev@gmail.com">Почта</a>
 </p>
 
-#### Сейчас
-- Москва, Россия
-- в работе
-- `mirrosha.dev@gmail.com`
+#### Избранные работы
 
-#### Недавно
-- **VECK** · 2024–2026 — B2B SaaS для венчурных инвесторов
-- **IZETA** · 2026 — fashion e-commerce и учёт
-- **ANACORE** · 2026 *(wip)* — аналитика Telegram + AI
-- **OSTIN × CAPSULA** · 2024–2026 — кабинет, API, платформа стилиста
-
-#### Стек
-`React` · `Next.js` · `TypeScript` · `Django` · `PostgreSQL` · `Docker` · `Tailwind` · `Figma`
+| | |
+|:--|:--|
+| [**VECK**](https://www.mirrosha.com/portfolio/veck) — B2B SaaS для венчурных инвесторов | [**IZETA**](https://www.mirrosha.com/portfolio/izeta) — fashion e-commerce и учёт |
+| [**ANACORE**](https://www.mirrosha.com/portfolio/analytics-core) — аналитика Telegram + AI | [**OSTIN × CAPSULA**](https://www.mirrosha.com/portfolio/ostin-capsula) — кабинет, API, стилист |
 
 <p align="center">
-  <sub>Кейсы и контакты → <a href="https://www.mirrosha.com/?lang=ru">mirrosha.com</a></sub><br/>
+  <sub><a href="https://www.mirrosha.com/portfolio">Все кейсы на mirrosha.com →</a></sub><br/>
   <sub>спасибо, что заглянул (⌒‿⌒)</sub>
 </p>
 
