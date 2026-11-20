@@ -13,7 +13,7 @@
 
 <p align="center">
   full-stack developer · co-founder of <b>VECK</b><br/>
-  <sub>(~˘▾˘)~</sub>
+  <sub>(⌒‿⌒)</sub>
 </p>
 
 <p align="center">
@@ -61,7 +61,7 @@
 
 <p align="center">
   full-stack разработчик · сооснователь <b>VECK</b><br/>
-  <sub>(~˘▾˘)~</sub>
+  <sub>(⌒‿⌒)</sub>
 </p>
 
 <p align="center">
