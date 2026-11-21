@@ -27,8 +27,6 @@
   <a href="mailto:mirrosha.dev@gmail.com"><img src="assets/links/email.svg" alt="Email" height="16" /></a>
 </p>
 
----
-
 ### Stack
 
 <p align="center">
@@ -47,8 +45,6 @@
     <code>Figma</code>
   </sub>
 </p>
-
----
 
 ### Selected work
 
@@ -116,8 +112,6 @@
 <p align="center">
   <a href="https://www.mirrosha.com/portfolio" target="_blank" rel="noopener noreferrer"><img src="assets/links/all-cases-on-mirrosha-com.svg" alt="All cases on mirrosha.com" height="14" /></a>
 </p>
-
----
 
 <p align="center">
   <sub>thanks for stopping by (⌒‿⌒)</sub>
