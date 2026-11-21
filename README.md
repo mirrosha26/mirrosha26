@@ -16,9 +16,9 @@
 </p>
 
 <p align="center">
-  <a href="https://www.mirrosha.com/?lang=en"><img src="assets/links/portfolio.svg" alt="Portfolio" height="16" /></a>
+  <a href="https://www.mirrosha.com/?lang=en" target="_blank" rel="noopener noreferrer"><img src="assets/links/portfolio.svg" alt="Portfolio" height="16" /></a>
   ·
-  <a href="https://t.me/miroshnikovmisha"><img src="assets/links/telegram.svg" alt="Telegram" height="16" /></a>
+  <a href="https://t.me/miroshnikovmisha" target="_blank" rel="noopener noreferrer"><img src="assets/links/telegram.svg" alt="Telegram" height="16" /></a>
   ·
   <a href="mailto:mirrosha.dev@gmail.com"><img src="assets/links/email.svg" alt="Email" height="16" /></a>
 </p>
@@ -51,58 +51,58 @@
 <table border="0" cellspacing="0" cellpadding="6" width="100%">
   <tr>
     <td width="33%" valign="top" align="center">
-      <a href="https://www.mirrosha.com/portfolio/veck">
+      <a href="https://www.mirrosha.com/portfolio/veck" target="_blank" rel="noopener noreferrer">
         <img src="assets/works/veck.webp" alt="VECK" width="100%" />
       </a>
       <br/>
-      <a href="https://www.mirrosha.com/portfolio/veck"><img src="assets/links/veck.svg" alt="VECK" height="14" /></a>
+      <a href="https://www.mirrosha.com/portfolio/veck" target="_blank" rel="noopener noreferrer"><img src="assets/links/veck.svg" alt="VECK" height="14" /></a>
       <br/>
       <sup>B2B SaaS · venture · 2024–2026</sup>
     </td>
     <td width="33%" valign="top" align="center">
-      <a href="https://www.mirrosha.com/portfolio/izeta">
+      <a href="https://www.mirrosha.com/portfolio/izeta" target="_blank" rel="noopener noreferrer">
         <img src="assets/works/izeta.webp" alt="IZETA" width="100%" />
       </a>
       <br/>
-      <a href="https://www.mirrosha.com/portfolio/izeta"><img src="assets/links/izeta.svg" alt="IZETA" height="14" /></a>
+      <a href="https://www.mirrosha.com/portfolio/izeta" target="_blank" rel="noopener noreferrer"><img src="assets/links/izeta.svg" alt="IZETA" height="14" /></a>
       <br/>
       <sup>Fashion e-com · inventory · 2026</sup>
     </td>
     <td width="33%" valign="top" align="center">
-      <a href="https://www.mirrosha.com/portfolio/analytics-core">
+      <a href="https://www.mirrosha.com/portfolio/analytics-core" target="_blank" rel="noopener noreferrer">
         <img src="assets/works/anacore.webp" alt="ANACORE" width="100%" />
       </a>
       <br/>
-      <a href="https://www.mirrosha.com/portfolio/analytics-core"><img src="assets/links/anacore.svg" alt="ANACORE" height="14" /></a>
+      <a href="https://www.mirrosha.com/portfolio/analytics-core" target="_blank" rel="noopener noreferrer"><img src="assets/links/anacore.svg" alt="ANACORE" height="14" /></a>
       <br/>
       <sup>Telegram analytics + AI · 2026</sup>
     </td>
   </tr>
   <tr>
     <td width="33%" valign="top" align="center">
-      <a href="https://www.mirrosha.com/portfolio/ostin-capsula">
+      <a href="https://www.mirrosha.com/portfolio/ostin-capsula" target="_blank" rel="noopener noreferrer">
         <img src="assets/works/ostin.webp" alt="OSTIN × CAPSULA" width="100%" />
       </a>
       <br/>
-      <a href="https://www.mirrosha.com/portfolio/ostin-capsula"><img src="assets/links/ostin-capsula.svg" alt="OSTIN × CAPSULA" height="14" /></a>
+      <a href="https://www.mirrosha.com/portfolio/ostin-capsula" target="_blank" rel="noopener noreferrer"><img src="assets/links/ostin-capsula.svg" alt="OSTIN × CAPSULA" height="14" /></a>
       <br/>
       <sup>Cabinet · API · styling · 2024–2026</sup>
     </td>
     <td width="33%" valign="top" align="center">
-      <a href="https://www.mirrosha.com/portfolio/capsula-b2b">
+      <a href="https://www.mirrosha.com/portfolio/capsula-b2b" target="_blank" rel="noopener noreferrer">
         <img src="assets/works/capsula-b2b.webp" alt="CAPSULA B2B" width="100%" />
       </a>
       <br/>
-      <a href="https://www.mirrosha.com/portfolio/capsula-b2b"><img src="assets/links/capsula-b2b.svg" alt="CAPSULA B2B" height="14" /></a>
+      <a href="https://www.mirrosha.com/portfolio/capsula-b2b" target="_blank" rel="noopener noreferrer"><img src="assets/links/capsula-b2b.svg" alt="CAPSULA B2B" height="14" /></a>
       <br/>
       <sup>B2B styling platform · 2025–2026</sup>
     </td>
     <td width="33%" valign="top" align="center">
-      <a href="https://www.mirrosha.com/portfolio/sber-salute">
+      <a href="https://www.mirrosha.com/portfolio/sber-salute" target="_blank" rel="noopener noreferrer">
         <img src="assets/works/salut.webp" alt="SberSalut" width="100%" />
       </a>
       <br/>
-      <a href="https://www.mirrosha.com/portfolio/sber-salute"><img src="assets/links/sbersalut.svg" alt="SberSalut" height="14" /></a>
+      <a href="https://www.mirrosha.com/portfolio/sber-salute" target="_blank" rel="noopener noreferrer"><img src="assets/links/sbersalut.svg" alt="SberSalut" height="14" /></a>
       <br/>
       <sup>Salut UI/UX for Capsula · 2022</sup>
     </td>
@@ -110,7 +110,7 @@
 </table>
 
 <p align="center">
-  <a href="https://www.mirrosha.com/portfolio"><img src="assets/links/all-cases-on-mirrosha-com.svg" alt="All cases on mirrosha.com" height="14" /></a>
+  <a href="https://www.mirrosha.com/portfolio" target="_blank" rel="noopener noreferrer"><img src="assets/links/all-cases-on-mirrosha-com.svg" alt="All cases on mirrosha.com" height="14" /></a>
 </p>
 
 ---
