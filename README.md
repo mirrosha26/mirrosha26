@@ -4,6 +4,10 @@
   Rounded cards = radius baked into WebP alpha.
 -->
 
+<p align="center">
+  <img src="assets/banner.webp" alt="" width="100%" />
+</p>
+
 <h1 align="center">Mikhail Miroshnikov</h1>
 
 <p align="center">
